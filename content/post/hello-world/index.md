@@ -14,7 +14,9 @@ Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then st
 
 For more information about this theme, check the documentation: https://docs.stack.jimmycai.com/
 
-Vercel Test 1 Push SPVK
+Vercel Test 1 Push SPCK
+Vercel Test 2 Github
+
 
 Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
 
