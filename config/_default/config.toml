@@ -19,3 +19,5 @@ disqusShortname = "anargya-blog"
   changefreq = 'daily'
   filename = 'sitemap.xml'
   priority = 0.5
+  
+enableRobotsTXT = true
