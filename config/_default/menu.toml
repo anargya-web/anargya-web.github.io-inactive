@@ -14,3 +14,11 @@ url = "https://github.com/anargya-web/"
 
 [social.params]
 icon = "brand-github"
+
+[[social]]
+identifier = "twitter"
+name = "Twitter"
+url = "https://wa.me/+6285230633063"
+
+[social.params]
+icon = "brand-whatsapp"
