@@ -1,7 +1,7 @@
 ---
-title: Hello World
-description: Welcome to Hugo Theme Stack
-slug: hello-world
+title: Test Post
+description: This is Test Post
+slug: test-post
 date: 2022-03-06 00:00:00+0000
 image: cover.jpg
 categories:
