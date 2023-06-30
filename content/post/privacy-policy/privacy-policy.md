@@ -2,8 +2,7 @@
 title: Privacy Policy
 description: Welcome to this website Privacy Policy
 slug: privacy-policy
-date: 2023-01-01 00:00:00+0000
-image: cover.jpg
+date: 2020-01-01 00:00:00+0000
 ---
 
 # Privacy Policy
